@@ -30,3 +30,5 @@ you to choose all products in the list.
 following this path: wp-content -> plugins. Once the "new-field-add-plugin" folder is moved into the "plugins" folder, 
 refresh the WordPress plugins page and activate the plugin. Upon activation, a new field will appear in the 
 WooCommerce product editing section and a new tab will be added to the WordPress admin panel.
+
+P.S. make sure that the path of the "test-custom-field-main.php" file matches the given path: wp-content -> plugins -> new-field-add-plugin -> new-field-add-plugin.php
