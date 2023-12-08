@@ -31,4 +31,8 @@ following this path: wp-content -> plugins. Once the "new-field-add-plugin" fold
 refresh the WordPress plugins page and activate the plugin. Upon activation, a new field will appear in the 
 WooCommerce product editing section and a new tab will be added to the WordPress admin panel.
 
-P.S. make sure that the path of the "test-custom-field-main.php" file matches the given path: wp-content -> plugins -> new-field-add-plugin -> new-field-add-plugin.php
+P.S. pleace, make sure that the path of the "new-field-add-plugin.php" 
+file matches the given path: wp-content -> plugins -> new-field-add-plugin -> new-field-add-plugin.php.
+If necessary, rename the folder from "test-custom-field-main" to "test-custom-field"*
+
+*for github
